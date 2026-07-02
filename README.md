@@ -23,13 +23,15 @@ TypeScript · React · Next.js · NestJS · Node.js · Python · PostgreSQL · A
 
 **Focus**
 
-| | |
+| Area | Stack |
 | :--- | :--- |
 | **Frontend** | React, Next.js, Vue, Nuxt, Tailwind, responsive UI |
-| **Backend** | NestJS, Node.js, Python (Flask), REST & GraphQL APIs, Prisma, AdonisJS |
+| **Backend** | NestJS, Node.js, Python, REST & GraphQL APIs, Prisma, AdonisJS |
 | **Data** | PostgreSQL, MongoDB, SQL modelling & migrations |
 | **Cloud & delivery** | AWS, Vercel, CI/CD, Git/GitHub |
-| **Other** | OAuth/OIDC, third-party integrations, secure multi-role apps |
+| **Security** | M.IT (Network Security), Uni. of Melbourne — app security, OAuth/OIDC; Burp Suite, OWASP ZAP, Wireshark |
+| **AI** | LLM APIs (OpenAI), RAG, embeddings & vector search, AI agents / tool calling, prompt design for production apps |
+| **Other** | Third-party integrations, secure multi-role systems |
 
 <div align="center">
 
@@ -57,6 +59,7 @@ TypeScript · React · Next.js · NestJS · Node.js · Python · PostgreSQL · A
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </div>
