@@ -2,13 +2,13 @@
 
 ### Hi, I'm Fangtai Dong
 
-**Full-stack engineer** · Melbourne, Australia
+**Senior Software Engineer** · Melbourne, Australia
 
-TypeScript · React · Next.js · PostgreSQL · AWS
+TypeScript · React · Next.js · NestJS · Node.js · Python · PostgreSQL · AWS
 
 <br />
 
-[Portfolio](https://fangtaidong.com) · [GitHub](https://github.com/FangtaiDong10)
+[Portfolio](https://fangtaidong.com) · [LinkedIn](https://www.linkedin.com/in/fangtai-dong-1392911a6/)
 
 <br />
 
@@ -25,10 +25,11 @@ TypeScript · React · Next.js · PostgreSQL · AWS
 
 | | |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Vue, Tailwind, responsive UI |
-| **Backend** | REST APIs, Node.js, PostgreSQL, Prisma |
-| **Cloud & delivery** | AWS, Vercel, CI/CD, Git |
-| **Other** | Auth (OAuth/OIDC), integrations, digital health standards |
+| **Frontend** | React, Next.js, Vue, Nuxt, Tailwind, responsive UI |
+| **Backend** | NestJS, Node.js, Python (Flask), REST & GraphQL APIs, Prisma, AdonisJS |
+| **Data** | PostgreSQL, MongoDB, SQL modelling & migrations |
+| **Cloud & delivery** | AWS, Vercel, CI/CD, Git/GitHub |
+| **Other** | OAuth/OIDC, third-party integrations, secure multi-role apps |
 
 <div align="center">
 
@@ -51,8 +52,11 @@ TypeScript · React · Next.js · PostgreSQL · AWS
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </div>
