@@ -29,7 +29,7 @@ TypeScript · React · Next.js · NestJS · Node.js · Python · PostgreSQL · A
 | **Backend** | NestJS, Node.js, Python, REST & GraphQL APIs, Prisma, AdonisJS |
 | **Data** | PostgreSQL, MongoDB, SQL modelling & migrations |
 | **Cloud & delivery** | AWS, Vercel, CI/CD, Git/GitHub |
-| **Security** | M.IT (Network Security), Uni. of Melbourne — app security, OAuth/OIDC; Burp Suite, OWASP ZAP, Wireshark |
+| **Cyber Security** | M.IT (Cyber Security), Uni. of Melbourne — app security, OAuth/OIDC; Burp Suite, OWASP ZAP, Wireshark |
 | **AI** | LLM APIs (OpenAI), RAG, embeddings & vector search, AI agents / tool calling, prompt design for production apps |
 | **Other** | Third-party integrations, secure multi-role systems |
 
