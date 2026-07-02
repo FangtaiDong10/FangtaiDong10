@@ -2,7 +2,11 @@
 
 ### Hi, I'm Fangtai Dong
 
-**Senior full-stack engineer** · Melbourne · building production health & web platforms
+**Full-stack engineer** · Melbourne, Australia
+
+TypeScript · React · Next.js · PostgreSQL · AWS
+
+<br />
 
 [Portfolio](https://fangtaidong.com) · [GitHub](https://github.com/FangtaiDong10)
 
@@ -15,29 +19,40 @@
 
 </div>
 
----
+<br />
 
-**Currently** leading full-stack work on **Scripted** — telehealth for clinics (Next.js, TypeScript, PostgreSQL, AWS/Vercel), with Australian digital health conformance (ADHA HI, NOC) and clinical integrations.
+**Focus**
 
-**Strengths:** TypeScript · React · Next.js · REST APIs · PostgreSQL/Prisma · AWS · CI/CD · auth & secure clinical workflows · AI-assisted integration monitoring
+| | |
+| :--- | :--- |
+| **Frontend** | React, Next.js, Vue, Tailwind, responsive UI |
+| **Backend** | REST APIs, Node.js, PostgreSQL, Prisma |
+| **Cloud & delivery** | AWS, Vercel, CI/CD, Git |
+| **Other** | Auth (OAuth/OIDC), integrations, digital health standards |
 
 <div align="center">
 
-<a href="https://www.credly.com/users/fangtai-dong/badges" target="_blank" rel="noopener noreferrer">
+<br />
+
+<a href="https://www.credly.com/badges/3453cd89-673f-44f7-acd1-e5e4f8ddf85a/public_url">
   <img
+    src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"
     alt="AWS Certified Solutions Architect – Associate"
-    src="https://images.credly.com/size/340x340/images/0242e0bd-3698-4d62-b677-5673b48ac11f/image.png"
-    width="110"
+    width="120"
   />
 </a>
+
+<br />
+
+[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://www.credly.com/badges/3453cd89-673f-44f7-acd1-e5e4f8ddf85a/public_url)
 
 <br /><br />
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
