@@ -2,7 +2,7 @@
 
 ### Hi, I'm Fangtai Dong
 
-**Senior Software Engineer** · Melbourne, Australia
+**Senior Software Engineer / FDE Engineer** · Melbourne, Australia
 
 TypeScript · React · Next.js · NestJS · Node.js · Python · PostgreSQL · AWS
 
